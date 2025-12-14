@@ -1,0 +1,5 @@
+{
+  "name": "Sand Castle",
+  "description": "A 3D fractal generator using iterative geometry rules. Create complex structures manually or let Gemini AI dream up new mathematical forms.",
+  "requestFramePermissions": []
+}
